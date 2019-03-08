@@ -1,2 +1,2 @@
 # Deep-Learning-with-Python
-Some of the code I used when learning about Neural Networks
+Some of the code I am using while studying Neural Networks
